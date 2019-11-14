@@ -1,4 +1,4 @@
-package abstract_class;
+package entity;
 
 public abstract class Employee {
 

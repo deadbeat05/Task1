@@ -1,4 +1,4 @@
-package employees;
+package entity;
 
 import org.junit.Test;
 

@@ -1,8 +1,4 @@
-package accounter;
-
-import abstract_class.Employee;
-import employees.Manager;
-import employees.Programmer;
+package entity;
 
 import java.util.ArrayList;
 import java.util.List;
